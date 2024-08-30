@@ -6,3 +6,7 @@ personalNewsletter, your newsletter easily and powerful app, created with the po
 
 
 enjoy it! 🍻
+
+## Follow dev 💻
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsnrique/)
+[![Socials Badge](https://img.shields.io/badge/Socials-3f48d1?style=for-the-badge&logo=socials&logoColor=white)](https://beacons.ai/hsnrique/)
